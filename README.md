@@ -47,8 +47,5 @@ Please follow our [code of conduct](link_to_code_of_conduct) during all interact
 
 If you have any questions or inquiries, feel free to reach out to us:
 
-- Email: [Insert Contact Email Address]
-- [Other contact methods, e.g., social media]
-
 We look forward to seeing you at our events and collaborating with you!
 
