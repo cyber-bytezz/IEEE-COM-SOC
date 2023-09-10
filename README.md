@@ -7,8 +7,8 @@ Welcome to the official GitHub repository of the IEEE Computer Society chapter a
 
 The IEEE Computer Society is the world's leading membership organization dedicated to computer science and technology. Our college chapter aims to provide a platform for students to engage in various activities, workshops, and events related to computer science.
 
-- **Website:** [https://cyber-bytezz.github.io/index.html]
-- **Email:** [mail]
+- **Website:** Under Construction 🚧
+- **Email:** 🚧
 
 ## Activities
 
